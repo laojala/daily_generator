@@ -14,9 +14,10 @@ from io import StringIO
 
 # Modidy this list for attendees
 ATTENDEES =  ['Blaze',
-              'Smith'
-	          'Sola',
-              'Star']
+              'Jiz',
+	      'Sole',
+              'Star',
+              'Zep']
 
 # Modify this list for questions
 QUESTIONS = ['How are you doing?',
